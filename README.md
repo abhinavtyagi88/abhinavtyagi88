@@ -2,7 +2,7 @@
 - 👀 I’m interested in web3, AI/ML,cloud
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -https://t.me/deltaMaterial
+- 📫 How to reach me -https://www.linkedin.com/in/abhinav-tyagi-515044251
 
 <!---
 abhinavtyagi88/abhinavtyagi88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
